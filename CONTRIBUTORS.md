@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Sergey Savelev] (https://github.com/Chatodun)
