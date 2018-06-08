@@ -1,1 +1,1 @@
-[Aidai Kazybekova](https://github.com/aidai2)
+- [Aidai Kazybekova](https://github.com/aidai2)
