@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Eliza Tashbekova](https://github.com/tashbekova)
