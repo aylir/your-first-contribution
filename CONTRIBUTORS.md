@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Evgeniy Bobin](https://github.com/quantagonista)
