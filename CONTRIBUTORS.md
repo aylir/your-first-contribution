@@ -1,1 +1,1 @@
-- [Aidai Kazybekova](https://github.com/aidai2)
+- [A-Nuriza](https://github.com/A-Nuiza)
