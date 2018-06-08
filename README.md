@@ -8,6 +8,8 @@
 
 ## Fork this repository
 
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
 Fork this repo by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
