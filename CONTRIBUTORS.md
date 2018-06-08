@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Ertur Sheranov](https://github.com/ErturS)
