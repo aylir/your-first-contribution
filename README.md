@@ -52,9 +52,9 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor. You must be familiar with Markdown, a lightweight markup language. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown.
+Now open `CONTRIBUTORS.md` file in a text editor. You must be familiar with Markdown, a lightweight markup language. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown.
 
-In this case, add the following line at the end of `Contributors.md:`
+In this case, add the following line at the end of `CONTRIBUTORS.md:`
 
 ```
 - [Your-name](https://github.com/Your-username)
@@ -71,7 +71,7 @@ Make sure there is no space between `](` . Save the file and then close it.
 If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add CONTRIBUTORS.md
 ```
 
 Now commit those changes using the `git commit` command:
