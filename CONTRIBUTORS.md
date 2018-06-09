@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Jenish Mursidinov](https://github.com/Muxazuxa)
