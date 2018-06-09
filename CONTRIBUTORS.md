@@ -1,4 +1,5 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Sergey Savelev](https://github.com/Chatodun)
 - [Eliza Tashbekova](https://github.com/tashbekova)
 - [Evgeniy Bobin](https://github.com/quantagonista)
 - [Jenish Mursidinov](https://github.com/Muxazuxa)
