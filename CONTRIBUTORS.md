@@ -1,2 +1,3 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Evgeniy Bobin](https://github.com/quantagonista)
 - [Jenish Mursidinov](https://github.com/Muxazuxa)
