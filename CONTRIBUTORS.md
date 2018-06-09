@@ -6,3 +6,4 @@
 - [Eliza Tashbekova](https://github.com/tashbekova)
 - [Evgeniy Bobin](https://github.com/quantagonista)
 - [Jenish Mursidinov](https://github.com/Muxazuxa)
+- [Kimi no na wa](/en.wikipedia.org/wiki/Your_Name)
