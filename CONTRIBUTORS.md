@@ -7,3 +7,4 @@
 - [Evgeniy Bobin](https://github.com/quantagonista)
 - [Jenish Mursidinov](https://github.com/Muxazuxa)
 - [Sergey Savelev](https://github.com/Chatodun)
+- [Omurbek Dulatov](https://github.com/oma256)
